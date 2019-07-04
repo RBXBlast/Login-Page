@@ -1,0 +1,66 @@
+
+body{
+    background: url(images/background.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+
+.comp{
+    width: 500px;
+}
+
+.top{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+.login{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(255, 255, 255, 0.8);
+    background: green;
+    color: white;
+    font-size: 20px;
+    }
+
+.forgot{
+   font-family: Georgia;
+   color: white;
+}
+
+ div{
+     text-align: center;
+     border-radius: 30px;
+     background-color: white;
+     border-color: purple;
+     width: 600px;
+     margin: auto;
+     border: 3px solid purple;
+    
+ }
+
+.words{
+    background-color: purple;
+    border-radius: 0px;
+}
+input{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.facebook,.youtube,.twitter,.instagram{
+    width: 50px;
+    padding: 5px;
+}
+hr{
+    width: 275px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+color: yellow;
+}
